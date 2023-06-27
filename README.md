@@ -1,3 +1,8 @@
-# kaggle
-1. Regression with a Crab Age Dataset https://www.kaggle.com/competitions/playground-series-s3e16/  .    
-Врыв на Каггл)). Пару часиков вечерком перед окончанием соревнования.  scor 1.36298 , место 515/1429 .
+# kaggle competitions
+
+
+
+
+a.
+![image](https://github.com/ivan74rus/kaggle/assets/117063726/49a7d6f7-9248-402a-b493-94cdd943bd4e)
+
